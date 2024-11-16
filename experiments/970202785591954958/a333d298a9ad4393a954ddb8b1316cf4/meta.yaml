@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manikata/Desktop/projects/mlflow/my_artifacts/a333d298a9ad4393a954ddb8b1316cf4/artifacts
+end_time: 1731721600837
+entry_point_name: ''
+experiment_id: '970202785591954958'
+lifecycle_stage: active
+run_id: a333d298a9ad4393a954ddb8b1316cf4
+run_name: bouncy-sponge-221
+run_uuid: a333d298a9ad4393a954ddb8b1316cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731721599626
+status: 3
+tags: []
+user_id: manikata

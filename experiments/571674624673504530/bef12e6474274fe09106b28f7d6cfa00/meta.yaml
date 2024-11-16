@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manikata/Desktop/projects/mlflow/experiments/571674624673504530/bef12e6474274fe09106b28f7d6cfa00/artifacts
+end_time: 1731751813386
+entry_point_name: ''
+experiment_id: '571674624673504530'
+lifecycle_stage: active
+run_id: bef12e6474274fe09106b28f7d6cfa00
+run_name: sincere-midge-911
+run_uuid: bef12e6474274fe09106b28f7d6cfa00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731751811675
+status: 3
+tags: []
+user_id: manikata

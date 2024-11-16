@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manikata/Desktop/projects/mlflow/experiments/438152152465411293/0292561f0a444ac290a3e831f145c67c/artifacts
+end_time: 1731721265827
+entry_point_name: ''
+experiment_id: '438152152465411293'
+lifecycle_stage: active
+run_id: 0292561f0a444ac290a3e831f145c67c
+run_name: popular-snake-398
+run_uuid: 0292561f0a444ac290a3e831f145c67c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731721264517
+status: 3
+tags: []
+user_id: manikata

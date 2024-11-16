@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manikata/Desktop/projects/mlflow/my_artifacts/58c6990dbca4458e9182a960e0ac0da3/artifacts
+end_time: 1731753308658
+entry_point_name: ''
+experiment_id: '970202785591954958'
+lifecycle_stage: active
+run_id: 58c6990dbca4458e9182a960e0ac0da3
+run_name: artifacts_folder
+run_uuid: 58c6990dbca4458e9182a960e0ac0da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731753307483
+status: 3
+tags: []
+user_id: manikata
